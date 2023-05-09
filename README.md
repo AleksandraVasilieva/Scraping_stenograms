@@ -1,2 +1,2 @@
 # Scrapping_stenograms
-Scrapper I wrote when writing my undergraduate thesis
+Scrapping transcripts of Q&A session of Russian Parliament (State Duma). Undergraduate thesis
